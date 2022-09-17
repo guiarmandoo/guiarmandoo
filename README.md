@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Guilherme Armando
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://beacons.ai/guiarmando">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=guiarmandoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiarmando&layout=compact&langs_count=7&theme=radical"/>
 </div>
